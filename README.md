@@ -57,6 +57,19 @@ jupyter notebook
 | SCF credit exclusion: Some HS vs Bachelor+ | 29.6% → 8.5% |
 
 ---
+## Interactive Visualisations (Tableau Public)
+
+Longitudinal velocity curves for all ten national-origin cohorts are
+available as interactive Tableau Public dashboards:
+
+https://public.tableau.com/app/profile/amir.khan7667/
+
+The underlying data for all visualisations is in:
+data/HCWCI_Master_Dataset_v2.csv
+
+Static PNG exports are in: outputs/figures/appendix/
+
+---
 
 ## Citation
 
