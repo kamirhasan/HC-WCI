@@ -1,0 +1,5 @@
+,Model,R2 (%),CI Low (%),CI High (%),RMSE
+0,"Model A: HC-WCI RF (Years+Edu+Rp, weighted)",-3.53,-6.44,-0.6,24.6855
+1,Model B: Income-only RF  (fair baseline),-22.69,-26.7,-19.31,26.8723
+2,Model C: Income-only Linear  (orig baseline),5.59,3.94,6.94,23.5732
+3,"Model D: HC-WCI RF  (Years+Edu, NO Rp)",14.02,12.3,15.62,22.4959

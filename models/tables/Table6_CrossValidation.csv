@@ -1,0 +1,5 @@
+,Model,CV_R2_Mean_pct,CV_R2_Std_pct,CV_R2_Min_pct,CV_R2_Max_pct
+0,"Model D: HC-WCI (Years+Edu, no Rp)",3.43,10.43,-16.51,16.68
+1,Model B: Income-only RF,-30.99,20.85,-78.18,-11.46
+2,Model C: Income-only Linear,-3.74,9.0,-25.15,6.93
+3,Model A: HC-WCI (Years+Edu+Rp),-18.61,12.69,-37.57,-1.65
